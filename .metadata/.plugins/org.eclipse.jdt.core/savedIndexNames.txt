@@ -62,7 +62,6 @@ INDEX VERSION 1.134+C:\Users\vaibhava\Desktop\my learning\New folder-git1\.metad
 2755022486.index
 1637135579.index
 2747686040.index
-1184607474.index
 2191387020.index
 1515750844.index
 1383020111.index
